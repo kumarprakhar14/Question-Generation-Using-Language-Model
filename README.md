@@ -23,7 +23,7 @@ This script generates different types of questions from a given 3GPP document us
 
 **Example Output**
 
-**1. ****Analytical Questions:**
+**1. Analytical Questions:**
 
 a. How does the 3rd Generation Partnership Project influence mobile telecommunications?',
 
@@ -31,7 +31,7 @@ b. 'How does the standards organizations influence mobile telecommunications?',
 
 c. 'How does the radio, core network, and service architecture influence mobile telecommunications?
 
-**2. ****Factual Questions:**
+**2. Factual Questions:**
 
 a. What does 3GPP stand for?',
 
@@ -39,7 +39,7 @@ b.  'What does 3GPP encompass?',
 
 c.  'What areas does 3GPP standardization cover?
 
-**3. ****Inferential Questions:**
+**3. Inferential Questions:**
 
 a. Why is it important for 3GPP to encompass 3rd Generation Partnership Project?',
 
